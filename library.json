@@ -1,72 +1,101 @@
 {
   "2023": {
-    "january": [{
-      "developer": "Developer Name 1",
-      "game": "Videogame Name Q",
-      "link": "www.game.com",
-      "image": "www.game.com/image.png",
-      "city": "Ottawa"
+    "name": "2023",
+    "months": [{
+      "name": "January",
+      "items": [{
+        "developer": "Developer Name",
+        "game": "Videogame Name",
+        "link": "www.game.com",
+        "image": "www.game.com/image.png",
+        "city": "Ottawa/Toronto"
+      }]
     },{
-      "developer": "Developer Name 2",
-      "game": "Videogame Name W",
-      "link": "www.game.com",
-      "image": "www.game.com/image.png",
-      "city": "Ottawa"
+      "name": "February",
+      "items": []
     },{
-      "developer": "Developer Name 3",
-      "game": "Videogame Name E",
-      "link": "www.game.com",
-      "image": "www.game.com/image.png",
-      "city": "Toronto"
+      "name": "March",
+      "items": []
     },{
-      "developer": "Developer Name 4",
-      "game": "Videogame Name R",
-      "link": "www.game.com",
-      "image": "www.game.com/image.png",
-      "city": "Ottawa"
-    }],
-    "february": [{
-      "developer": "Developer Name 5",
-      "game": "Videogame Name T",
-      "link": "www.game.com",
-      "image": "www.game.com/image.png",
-      "city": "Ottawa"
+      "name": "April",
+      "items": []
     },{
-      "developer": "Developer Name 6",
-      "game": "Videogame Name Y",
-      "link": "www.game.com",
-      "image": "www.game.com/image.png",
-      "city": "Toronto"
-    }],
-    "march": [],
-    "apri;": [],
-    "may": [],
-    "june": [],
-    "july": [],
-    "august": [],
-    "september": [],
-    "october": [],
-    "november": [],
-    "december": []
+      "name": "May",
+      "items": []
+    },{
+      "name": "June",
+      "items": []
+    },{
+      "name": "July",
+      "items": []
+    },{
+      "name": "August",
+      "items": []
+    },{
+      "name": "September",
+      "items": []
+    },{
+      "name": "October",
+      "items": []
+    },{
+      "name": "November",
+      "items": []
+    },{
+      "name": "December",
+      "items": []
+    }]
   },
-  "20XX": {
-    "january": [],
-    "february": [],
-    "march": [],
-    "apri;": [],
-    "may": [],
-    "june": [],
-    "july": [],
-    "august": [],
-    "september": [],
-    "october": [],
-    "november": [],
-    "december": [{
-      "developer": "Developer Name",
-      "game": "Videogame Name",
-      "link": "www.game.com",
-      "image": "www.game.com/image.png",
-      "city": "Ottawa/Toronto"
+  "2022": {
+    "name": "2022",
+    "months": [{
+      "name": "January",
+      "items": []
+    },{
+      "name": "February",
+      "items": []
+    },{
+      "name": "March",
+      "items": []
+    },{
+      "name": "April",
+      "items": []
+    },{
+      "name": "May",
+      "items": []
+    },{
+      "name": "June",
+      "items": []
+    },{
+      "name": "July",
+      "items": []
+    },{
+      "name": "August",
+      "items": []
+    },{
+      "name": "September",
+      "items": []
+    },{
+      "name": "October",
+      "items": []
+    },{
+      "name": "November",
+      "items": []
+    },{
+      "name": "December",
+      "items": []
+    }]
+  },
+  "19XX": {
+    "name": "19XX",
+    "months": [{
+      "name": "January",
+      "items": [{
+        "developer": "Developer Name",
+        "game": "Videogame Name",
+        "link": "www.game.com",
+        "image": "www.game.com/image.png",
+        "city": "Ottawa/Toronto"
+      }]
     }]
   }
 }
