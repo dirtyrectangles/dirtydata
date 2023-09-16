@@ -5,11 +5,11 @@
       "months": [{
         "name": "September",
         "items": [{
-          "developer": "Developer Name",
-          "game": "Videogame Name",
-          "link": "www.game.com",
-          "image": "www.game.com/image.png",
-          "city": "Ottawa/Toronto"
+          "developer": "AptGhost",
+          "game": "VVanderers",
+          "link": "https://aptghost.itch.io/vvanderers-one",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "city": "Ottawa"
         }]
       },{
         "name": "August",
