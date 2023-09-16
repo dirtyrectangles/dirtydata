@@ -19,13 +19,49 @@
         }]
       },{
         "name": "August",
-        "items": []
+        "items": [{
+          "developer": "AptGhost",
+          "game": "VVanderers",
+          "link": "https://aptghost.itch.io/vvanderers-one",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "city": "Ottawa"
+        },{
+          "developer": "AptGhost",
+          "game": "VVanderers",
+          "link": "https://aptghost.itch.io/vvanderers-one",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "city": "Toronto"
+        }]
       },{
         "name": "July",
-        "items": []
+        "items": [{
+          "developer": "AptGhost",
+          "game": "VVanderers",
+          "link": "https://aptghost.itch.io/vvanderers-one",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "city": "Ottawa"
+        },{
+          "developer": "AptGhost",
+          "game": "VVanderers",
+          "link": "https://aptghost.itch.io/vvanderers-one",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "city": "Toronto"
+        }]
       },{
         "name": "June",
-        "items": []
+        "items": [{
+          "developer": "AptGhost",
+          "game": "VVanderers",
+          "link": "https://aptghost.itch.io/vvanderers-one",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "city": "Ottawa"
+        },{
+          "developer": "AptGhost",
+          "game": "VVanderers",
+          "link": "https://aptghost.itch.io/vvanderers-one",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "city": "Toronto"
+        }]
       },{
         "name": "May",
         "items": []
