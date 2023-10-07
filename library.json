@@ -6,62 +6,28 @@
         "name": "September",
         "items": [{
           "developer": "Jeremy Penner",
+          "description": "A DOS assembly compiler built in Jeremy's custom Jort programming language.",
           "game": "Jort Assembly Compiler",
           "link": "https://www.glorioustrainwrecks.com/",
           "image": "https://raw.githubusercontent.com/dirtyrectangles/dirtymedia/main/library/Jort.Assembly.Sept.2023.jpg",
           "city": "Ottawa"
         },{
-          "developer": "AptGhost",
-          "game": "VVanderers",
-          "link": "https://aptghost.itch.io/vvanderers-one",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
+          "developer": "Kezia Adamo",
+          "description": "A surreal 2D game with various playthrough routes. (Currently in development)"
+          "game": "Reverticies",
+          "link": "https://twitter.com/revertices",
+          "image": "https://raw.githubusercontent.com/dirtyrectangles/dirtymedia/main/library/Revertices.Sept.2023.png",
           "city": "Toronto"
         }]
       },{
         "name": "August",
-        "items": [{
-          "developer": "AptGhost",
-          "game": "VVanderers",
-          "link": "https://aptghost.itch.io/vvanderers-one",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
-          "city": "Ottawa"
-        },{
-          "developer": "AptGhost",
-          "game": "VVanderers",
-          "link": "https://aptghost.itch.io/vvanderers-one",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
-          "city": "Toronto"
-        }]
+        "items": []
       },{
         "name": "July",
-        "items": [{
-          "developer": "AptGhost",
-          "game": "VVanderers",
-          "link": "https://aptghost.itch.io/vvanderers-one",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
-          "city": "Ottawa"
-        },{
-          "developer": "AptGhost",
-          "game": "VVanderers",
-          "link": "https://aptghost.itch.io/vvanderers-one",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
-          "city": "Toronto"
-        }]
+        "items": []
       },{
         "name": "June",
-        "items": [{
-          "developer": "AptGhost",
-          "game": "VVanderers",
-          "link": "https://aptghost.itch.io/vvanderers-one",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
-          "city": "Ottawa"
-        },{
-          "developer": "AptGhost",
-          "game": "VVanderers",
-          "link": "https://aptghost.itch.io/vvanderers-one",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMyNTEvOTIzNzkuZ2lm/794x1000/RkSQsz.gif",
-          "city": "Toronto"
-        }]
+        "items": []
       },{
         "name": "May",
         "items": []
@@ -121,13 +87,7 @@
       "name": "19XX",
       "months": [{
         "name": "January",
-        "items": [{
-          "developer": "Developer Name",
-          "game": "Videogame Name",
-          "link": "www.game.com",
-          "image": "www.game.com/image.png",
-          "city": "Ottawa/Toronto"
-        }]
+        "items": []
       }]
     }
   ]
