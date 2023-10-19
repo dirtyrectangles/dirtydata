@@ -5,18 +5,25 @@
       "months": [{
         "name": "October",
         "items": [{
-          "developer": "Jeremy Penner",
-          "description": "dialer.com simulates the experience of calling up a BBS and downloading games.",
-          "game": "dialer.com",
-          "link": "https://spindleyq.itch.io/dialercom",
-          "image": "https://img.itch.zone/aW1hZ2UvMjMxNTkwMy8xMzcyMTY2NC5wbmc=/794x1000/yVI6%2Bc.png",
-          "city": "Ottawa"
-        },{
           "developer": "Jonah Davidson",
           "description": "Mario RPG ReGoogled is an updated version of FantaKuat’s “Mario RPG Google Translate” romhack, with the goal of making it stream-safe.",
           "game": "Mario RPG ReGoogled",
           "link": "https://www.romhacking.net/hacks/8101/",
           "image": "https://www.romhacking.net/translations/snes/images/titles/804titlescreen.png",
+          "city": "Ottawa"
+        },{
+          "developer": "BEARCABIN",
+          "description": "A super duper cool like retro 3d dungeon crawler",
+          "game": "BEARCABIN's Dungeon Game",
+          "link": "https://bearcabin.itch.io/",
+          "image": "https://raw.githubusercontent.com/dirtyrectangles/dirtymedia/main/library/bearcabin.jpg",
+          "city": "Ottawa"
+        },{
+          "developer": "Jeremy Penner",
+          "description": "dialer.com simulates the experience of calling up a BBS and downloading games.",
+          "game": "dialer.com",
+          "link": "https://spindleyq.itch.io/dialercom",
+          "image": "https://img.itch.zone/aW1hZ2UvMjMxNTkwMy8xMzcyMTY2NC5wbmc=/794x1000/yVI6%2Bc.png",
           "city": "Ottawa"
         }]
       },{
