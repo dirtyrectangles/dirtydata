@@ -194,6 +194,16 @@
       }
     ]
   },
+  "fightDirty": {
+    "title": "Fight Dirty",
+    "episodes": [
+      {
+        "title": "Episode 001: Fortnite Chapter 5",
+        "duration": "52:06",
+        "videoId": "87i_IJtxlJQ"
+      }
+    ]
+  },
   "retrospect": {
     "title": "In Retrospect",
     "episodes": [
@@ -220,6 +230,36 @@
         "title": "005: Sega CD FMV Night // Revenge of the Ninja // Time Gal",
         "duration": "1:53::28",
         "videoId": "jkrkjV9KxAk"
+      }
+    ]
+  },
+  "indieMixtape": {
+    "title": "Indie Mixtape",
+    "episodes": [
+      {
+        "title": "Episode 001: Balatro",
+        "duration": "1:27:16",
+        "videoId": "_7SJaJPyYk8"
+      },
+      {
+        "title": "Episode 002: Dungeons of Blood and Dream",
+        "duration": "1:05:21",
+        "videoId": "GYIeEhSISGA"
+      },
+      {
+        "title": "Episode 003: CLICKHOLDING",
+        "duration": "1:08:18",
+        "videoId": "9-Ejpn0CQ_4"
+      },
+      {
+        "title": "Episode 004: Dungeons of Blood and Dream (revisit)",
+        "duration": "1:55:38",
+        "videoId": "ZpzjJYpuUXg"
+      },
+      {
+        "title": "Episode 005: Sorry We're Closed // No Signal",
+        "duration": "2:11:55",
+        "videoId": "RDuy2LDbPqc"
       }
     ]
   },
@@ -345,6 +385,41 @@
         "title": "Episode 001: S.T.A.C.K.E.R.",
         "duration": "31:31",
         "videoId": "4cWyHU7Lvew"
+      }
+    ]
+  },
+  "storyMode": {
+    "title": "Story Mode",
+    "episodes": [
+      {
+        "title": "Normality: Episode 001",
+        "duration": "1:31:12",
+        "videoId": "F1Pm_JpIfnI"
+      },
+      {
+        "title": "Normality: Episode 002",
+        "duration": "1:25:45",
+        "videoId": "H2SAFnmimeY"
+      },
+      {
+        "title": "Normality: Episode 003",
+        "duration": "1:14:49",
+        "videoId": "5os8-sEJz-k"
+      },
+      {
+        "title": "Normality: Episode 004",
+        "duration": "1:04:49",
+        "videoId": "lNdaTgU8GKc"
+      },
+      {
+        "title": "Sword of the Berserk Guts' Rage: Episode 001",
+        "duration": "2:10:55",
+        "videoId": "iuxqA4J833c"
+      },
+      {
+        "title": "Sword of the Berserk Guts' Rage: Episode 002",
+        "duration": "2:57:53",
+        "videoId": "B8HPqnzKX-c"
       }
     ]
   },
