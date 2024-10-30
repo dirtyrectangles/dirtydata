@@ -43,17 +43,17 @@
     "title": "🙏ALIENS🙏",
     "episodes": [
       {
-        "title": "001",
+        "title": "Episode 001",
         "duration": "1:44:15",
         "videoId": "CDNjiVIaBfY"
       },
       {
-        "title": "002",
+        "title": "Episode 002",
         "duration": "1:48:52",
         "videoId": "Zu4A-g8jXXc"
       },
       {
-        "title": "003",
+        "title": "Episode 003",
         "duration": "1:36:32",
         "videoId": "MyyUBNzJH_k"
       }
@@ -223,36 +223,56 @@
       }
     ]
   },
+  "kuul": {
+    "title": "K'uul and the Gang",
+    "episodes": [
+      {
+        "title": "Episode 001",
+        "duration": "1:23:20",
+        "videoId": "ZcS-TEDYaEI"
+      },
+      {
+        "title": "Episode 002",
+        "duration": "2:04:17",
+        "videoId": "VV5LYLj4KeU"
+      },
+      {
+        "title": "Episode 003",
+        "duration": "53:59",
+        "videoId": "hYSOX5bd7vE"
+      }
+    ]
+  },
   "maniacMansion": {
     "title": "My Maniac Mansion",
     "episodes": [
       {
-        "title": "001",
+        "title": "Episode 001",
         "duration": "39:34",
         "videoId": "XTsDdUIr4Hk"
       },
       {
-        "title": "002",
+        "title": "Episode 002",
         "duration": "55:44",
         "videoId": "0LFPvPHJlQc"
       },
       {
-        "title": "003",
+        "title": "Episode 003",
         "duration": "38:02",
         "videoId": "mty9AadLiKg"
       },
       {
-        "title": "004",
+        "title": "Episode 004",
         "duration": "39:31",
         "videoId": "aYG3C_fYI6I"
       },
       {
-        "title": "005",
+        "title": "Episode 005",
         "duration": "37:06",
         "videoId": "2vYTh-FOKQw"
       },
       {
-        "title": "006",
+        "title": "Episode 006",
         "duration": "22:04",
         "videoId": "DXiHYJKh5o4"
       }
@@ -288,176 +308,216 @@
       }
     ]
   },
+  "pushingBlocks": {
+    "title": "Pushing Blocks w/ James",
+    "episodes": [
+      {
+        "title": "Episode 001: Puzzle Depot",
+        "duration": "27:15",
+        "videoId": "sokuyp7hQmM"
+      },
+      {
+        "title": "Episode 002: Puzzle Depot",
+        "duration": "36:57",
+        "videoId": "X2OqmY2zICo"
+      },
+      {
+        "title": "Episode 003: Puzzle Depot",
+        "duration": "37:33",
+        "videoId": "Y6YuGULjsKA"
+      }
+    ]
+  },
+  "revenge": {
+    "title": "Revenge in the Forbidden Forest",
+    "episodes": [
+      {
+        "title": "Revenge in the Forbidden Forest 001",
+        "duration": "30:43",
+        "videoId": "CQHoCgiFMJA"
+      }
+    ]
+  },
+  "stackingStacker": {
+    "title": "Stacking S.T.A.C.K.E.R.",
+    "episodes": [
+      {
+        "title": "Episode 001: S.T.A.C.K.E.R.",
+        "duration": "31:31",
+        "videoId": "4cWyHU7Lvew"
+      }
+    ]
+  },
   "tetris": {
     "title": "Tetris in the Coffee in the Morning with Derek",
     "episodes": [
       {
-        "title": "001",
+        "title": "Episode 001",
         "duration": "1:34",
         "videoId": "FERYVlMXMG4"
       },
       {
-        "title": "002",
+        "title": "Episode 002",
         "duration": "19:50",
         "videoId": "UUjWpff9iDM"
       },
       {
-        "title": "003",
+        "title": "Episode 003",
         "duration": "19:44",
         "videoId": "1OExP2Of_yY"
       },
       {
-        "title": "004",
+        "title": "Episode 004",
         "duration": "22:43",
         "videoId": "l7FOGCLcS1I"
       },
       {
-        "title": "005",
+        "title": "Episode 005",
         "duration": "12:21",
         "videoId": "c-luWZFUNKs"
       },
       {
-        "title": "006",
+        "title": "Episode 006",
         "duration": "16:48",
         "videoId": "ROFI85qFnJg"
       },
       {
-        "title": "007",
+        "title": "Episode 007",
         "duration": "17:38",
         "videoId": "yyWWt-1jSOw"
       },
       {
-        "title": "008",
+        "title": "Episode 008",
         "duration": "16:55",
         "videoId": "AwphsqMVgEo"
       },
       {
-        "title": "009",
+        "title": "Episode 009",
         "duration": "14:36",
         "videoId": "PdSEtuXKJ2s"
       },
       {
-        "title": "010",
+        "title": "Episode 010",
         "duration": "19:02",
         "videoId": "Rl8CiPZk54k"
       },
       {
-        "title": "011",
+        "title": "Episode 011",
         "duration": "29:41",
         "videoId": "Y4aE1HoHyq8"
       },
       {
-        "title": "012",
+        "title": "Episode 012",
         "duration": "29:47",
         "videoId": "cXNsC0BkhqE"
       },
       {
-        "title": "013",
+        "title": "Episode 013",
         "duration": "28:23",
         "videoId": "laU-wy3SD5w"
       },
       {
-        "title": "014",
+        "title": "Episode 014",
         "duration": "32:45",
         "videoId": "zK_k27Hjyw0"
       },
       {
-        "title": "015",
+        "title": "Episode 015",
         "duration": "26:39",
         "videoId": "YX3-OngRi9g"
       },
       {
-        "title": "016",
+        "title": "Episode 016",
         "duration": "41:16",
         "videoId": "Tkc8Q4IFm7I"
       },
       {
-        "title": "017",
+        "title": "Episode 017",
         "duration": "20:43",
         "videoId": "M_gRYGcW-lA"
       },
       {
-        "title": "018",
+        "title": "Episode 018",
         "duration": "24:30",
         "videoId": "tk-DVQFIOR0"
       },
       {
-        "title": "019",
+        "title": "Episode 019",
         "duration": "29:08",
         "videoId": "ugBgUjzF_Q8"
       },
       {
-        "title": "020",
+        "title": "Episode 020",
         "duration": "21:35",
         "videoId": "AChl536KtBE"
       },
       {
-        "title": "021",
+        "title": "Episode 021",
         "duration": "28:25",
         "videoId": "p_ztmPngQgM"
       },
       {
-        "title": "022",
+        "title": "Episode 022",
         "duration": "26:03",
         "videoId": "yYHQuofW1ls"
       },
       {
-        "title": "023",
+        "title": "Episode 023",
         "duration": "30:19",
         "videoId": "LoE9W45dCmA"
       },
       {
-        "title": "024",
+        "title": "Episode 024",
         "duration": "27:33",
         "videoId": "Z1u9QiYfUok"
       },
       {
-        "title": "025",
+        "title": "Episode 025",
         "duration": "32:21",
         "videoId": "gdXgQ9YxnsA"
       },
       {
-        "title": "026",
+        "title": "Episode 026",
         "duration": "36:48",
         "videoId": "WG-he0dsN4Q"
       },
       {
-        "title": "027",
+        "title": "Episode 027",
         "duration": "23:21",
         "videoId": "mDcWB5gREzo"
       },
       {
-        "title": "028",
+        "title": "Episode 028",
         "duration": "42:13",
         "videoId": "pdGHXWsQL-U"
       },
       {
-        "title": "029",
+        "title": "Episode 029",
         "duration": "27:20",
         "videoId": "aFj_te0e4r0"
       },
       {
-        "title": "030",
+        "title": "Episode 030",
         "duration": "30:51",
         "videoId": "abpjZ9ElQOc"
       },
       {
-        "title": "031",
+        "title": "Episode 031",
         "duration": "39:14",
         "videoId": "yNU5GAY8uF4"
       },
       {
-        "title": "032",
+        "title": "Episode 032",
         "duration": "30:05",
         "videoId": "jpfl5HeCVx0"
       },
       {
-        "title": "033",
+        "title": "Episode 033",
         "duration": "33:41",
         "videoId": "QHFOKREvrfg"
       },
       {
-        "title": "034",
+        "title": "Episode 034",
         "duration": "43:36",
         "videoId": "7DvpRYp-4vs"
       },
@@ -467,79 +527,104 @@
         "videoId": "vXUiTdMynaE"
       },
       {
-        "title": "036",
+        "title": "Episode 036",
         "duration": "33:54",
         "videoId": "VOaHXIf3kb8"
       },
       {
-        "title": "037",
+        "title": "Episode 037",
         "duration": "43:18",
         "videoId": "y1m24-jvGvM"
       },
       {
-        "title": "038",
+        "title": "Episode 038",
         "duration": "48:36",
         "videoId": "gxGLFqY7GPY"
       },
       {
-        "title": "039",
+        "title": "Episode 039",
         "duration": "1:09:50",
         "videoId": "eYxhEE4m9DU"
       },
       {
-        "title": "040",
+        "title": "Episode 040",
         "duration": "1:08:44",
         "videoId": "HjIo_JHxxc0"
       },
       {
-        "title": "041",
+        "title": "Episode 041",
         "duration": "1:08:44",
         "videoId": "oiqJGptFkpU"
       },
       {
-        "title": "042",
+        "title": "Episode 042",
         "duration": "1:35:28",
         "videoId": "UrvlIUdyxgg"
       },
       {
-        "title": "043",
+        "title": "Episode 043",
         "duration": "1:08:56",
         "videoId": "yvgATE7Be7g"
       },
       {
-        "title": "044",
+        "title": "Episode 044",
         "duration": "1:34:41",
         "videoId": "yPrnU_p46z8"
       },
       {
-        "title": "045",
+        "title": "Episode 045",
         "duration": "1:48:37",
         "videoId": "ia2n_X1VJrU"
       },
       {
-        "title": "046",
+        "title": "Episode 046",
         "duration": "50:13",
         "videoId": "ISXS6mTtmXQ"
       },
       {
-        "title": "047",
+        "title": "Episode 047",
         "duration": "58:25",
         "videoId": "SnR10YWSaOI"
       },
       {
-        "title": "048",
+        "title": "Episode 048",
         "duration": "1:12:56",
         "videoId": "WfXDH7beexQ"
       },
       {
-        "title": "049",
+        "title": "Episode 049",
         "duration": "45:38",
         "videoId": "0uJCx2a1Tlo"
       },
       {
-        "title": "050",
+        "title": "Episode 050",
         "duration": "1:02:57",
         "videoId": "E6ToxfBzwek"
+      }
+    ]
+  },
+  "tomato": {
+    "title": "Tomato Time",
+    "episodes": [
+      {
+        "title": "Episode 001",
+        "duration": "50:43",
+        "videoId": "HMZSgt7tl8o"
+      },
+      {
+        "title": "Episode 002",
+        "duration": "47:47",
+        "videoId": "U2VJbydzGog"
+      },
+      {
+        "title": "Episode 003",
+        "duration": "44:25",
+        "videoId": "NIrbchYXfBw"
+      },
+      {
+        "title": "Episode 003",
+        "duration": "47:39",
+        "videoId": "bbaINhpF6pk"
       }
     ]
   }
