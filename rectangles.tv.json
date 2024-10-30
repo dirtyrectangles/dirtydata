@@ -1,4 +1,64 @@
 {
+  "puzzling": {
+    "title": "A Puzzling Game",
+    "episodes": [
+      {
+        "title": "001: Adventures of Lolo 3",
+        "duration": "1:29:46",
+        "videoId": "b16CEdjZb1M"
+      },
+      {
+        "title": "002: Adventures of Lolo 3",
+        "duration": "1:41:42",
+        "videoId": "zpRN53F96dg"
+      },
+      {
+        "title": "003: Adventures of Lolo 3",
+        "duration": "45:24",
+        "videoId": "QYBaRLK8oLA"
+      },
+      {
+        "title": "004: Adventures of Lolo 3",
+        "duration": "1:08:56",
+        "videoId": "1lZ0sFwMenY"
+      },
+      {
+        "title": "005: Adventures of Lolo 3",
+        "duration": "1:03:28",
+        "videoId": "iQQ36aR1yyg"
+      },
+      {
+        "title": "006: Adventures of Lolo 3",
+        "duration": "42:50",
+        "videoId": "C9jqLbJzLsc"
+      },
+      {
+        "title": "007: Adventures of Lolo 3",
+        "duration": "1:20:05",
+        "videoId": "ABwffHud2c0"
+      }
+    ]
+  },
+  "aliens": {
+    "title": "🙏ALIENS🙏",
+    "episodes": [
+      {
+        "title": "001",
+        "duration": "1:44:15",
+        "videoId": "CDNjiVIaBfY"
+      },
+      {
+        "title": "002",
+        "duration": "1:48:52",
+        "videoId": "Zu4A-g8jXXc"
+      },
+      {
+        "title": "003",
+        "duration": "1:36:32",
+        "videoId": "MyyUBNzJH_k"
+      }
+    ]
+  },
   "dro": {
     "title": "Dirty Rectangles Online",
     "episodes": [
@@ -134,23 +194,97 @@
       }
     ]
   },
-  "aliens": {
-    "title": "🙏ALIENS🙏",
+  "retrospect": {
+    "title": "In Retrospect",
+    "episodes": [
+      {
+        "title": "001: Goonies II // Rescue the Embassy Mission // Jaki Crush // Jaws // Cyber Stadium Series: Base Wars // M.C. Kids",
+        "duration": "58:01",
+        "videoId": "E21c4mDndIo"
+      },
+      {
+        "title": "002: Yo, Bro // Spy vs Spy",
+        "duration": "1:39:35",
+        "videoId": "qN-fNby7HGI"
+      },
+      {
+        "title": "003: Mighty Morphin Power Rangers // Power Rangers Zeo: Battle Racers // Power Rangers Zeo: Full Tilt Battle Pinball // Mighty Morphin Power Rangers FMV",
+        "duration": "1:33:46",
+        "videoId": "1GfH5lh_vPc"
+      },
+      {
+        "title": "004: Sega CD FMV Night // Fehrenheit ",
+        "duration": "1:34:15",
+        "videoId": "J7Qhrwc3CR0"
+      },{
+        "title": "005: Sega CD FMV Night // Revenge of the Ninja // Time Gal",
+        "duration": "1:53::28",
+        "videoId": "jkrkjV9KxAk"
+      }
+    ]
+  },
+  "maniacMansion": {
+    "title": "My Maniac Mansion",
     "episodes": [
       {
         "title": "001",
-        "duration": "1:44:15",
-        "videoId": "CDNjiVIaBfY"
+        "duration": "39:34",
+        "videoId": "XTsDdUIr4Hk"
       },
       {
         "title": "002",
-        "duration": "1:48:52",
-        "videoId": "Zu4A-g8jXXc"
+        "duration": "55:44",
+        "videoId": "0LFPvPHJlQc"
       },
       {
         "title": "003",
-        "duration": "1:36:32",
-        "videoId": "MyyUBNzJH_k"
+        "duration": "38:02",
+        "videoId": "mty9AadLiKg"
+      },
+      {
+        "title": "004",
+        "duration": "39:31",
+        "videoId": "aYG3C_fYI6I"
+      },
+      {
+        "title": "005",
+        "duration": "37:06",
+        "videoId": "2vYTh-FOKQw"
+      },
+      {
+        "title": "006",
+        "duration": "22:04",
+        "videoId": "DXiHYJKh5o4"
+      }
+    ]
+  },
+  "ourTown": {
+    "title": "Our Town",
+    "episodes": [
+      {
+        "title": "Act I : Episode 1",
+        "duration": "1:40:28",
+        "videoId": "XW_wnGXdr0Q"
+      },
+      {
+        "title": "Act I: Episode 2",
+        "duration": "40:13",
+        "videoId": "NFHweqj0ZWE"
+      },
+      {
+        "title": "Act I: Episode 3",
+        "duration": "41:20",
+        "videoId": "FfUXjivZ-RU"
+      },
+      {
+        "title": "Act I: Episode 4",
+        "duration": "1:26:28",
+        "videoId": "cBgSwuqi9Ww"
+      },
+      {
+        "title": "Act II: Episode 5",
+        "duration": "1:04:50",
+        "videoId": "IaeKnXwV8xw"
       }
     ]
   },
@@ -406,131 +540,6 @@
         "title": "050",
         "duration": "1:02:57",
         "videoId": "E6ToxfBzwek"
-      }
-    ]
-  },
-  "retrospect": {
-    "title": "In Retrospect",
-    "episodes": [
-      {
-        "title": "001",
-        "duration": "58:01",
-        "videoId": "E21c4mDndIo"
-      },
-      {
-        "title": "002",
-        "duration": "1:39:35",
-        "videoId": "qN-fNby7HGI"
-      },
-      {
-        "title": "003",
-        "duration": "1:33:46",
-        "videoId": "1GfH5lh_vPc"
-      }
-    ]
-  },
-  "maniacMansion": {
-    "title": "My Maniac Mansion",
-    "episodes": [
-      {
-        "title": "001",
-        "duration": "39:34",
-        "videoId": "XTsDdUIr4Hk"
-      },
-      {
-        "title": "002",
-        "duration": "55:44",
-        "videoId": "0LFPvPHJlQc"
-      },
-      {
-        "title": "003",
-        "duration": "38:02",
-        "videoId": "mty9AadLiKg"
-      },
-      {
-        "title": "004",
-        "duration": "39:31",
-        "videoId": "aYG3C_fYI6I"
-      },
-      {
-        "title": "005",
-        "duration": "37:06",
-        "videoId": "2vYTh-FOKQw"
-      },
-      {
-        "title": "006",
-        "duration": "22:04",
-        "videoId": "DXiHYJKh5o4"
-      }
-    ]
-  },
-  "ourTown": {
-    "title": "Our Town",
-    "episodes": [
-      {
-        "title": "Act I : Episode 1",
-        "duration": "1:40:28",
-        "videoId": "XW_wnGXdr0Q"
-      },
-      {
-        "title": "Act I: Episode 2",
-        "duration": "40:13",
-        "videoId": "NFHweqj0ZWE"
-      },
-      {
-        "title": "Act I: Episode 3",
-        "duration": "41:20",
-        "videoId": "FfUXjivZ-RU"
-      },
-      {
-        "title": "Act I: Episode 4",
-        "duration": "1:26:28",
-        "videoId": "cBgSwuqi9Ww"
-      },
-      {
-        "title": "Act II: Episode 5",
-        "duration": "1:04:50",
-        "videoId": "IaeKnXwV8xw"
-      }
-    ]
-  },
-  "puzzling": {
-    "title": "A Puzzling Game",
-    "episodes": [
-      {
-        "title": "001: Adventures of Lolo 3",
-        "duration": "1:29:46",
-        "videoId": "b16CEdjZb1M"
-      },
-      {
-        "title": "002: Adventures of Lolo 3",
-        "duration": "1:41:42",
-        "videoId": "zpRN53F96dg"
-      },
-      {
-        "title": "003: Adventures of Lolo 3",
-        "duration": "45:24",
-        "videoId": "QYBaRLK8oLA"
-      },
-      {
-        "title": "004: Adventures of Lolo 3",
-        "duration": "1:08:56",
-        "videoId": "1lZ0sFwMenY"
-      },
-      {
-        "title": "005: Adventures of Lolo 3",
-        "duration": "1:03:28",
-        "videoId": "iQQ36aR1yyg"
-      },
-      {
-        "title": "006: Adventures of Lolo 3",
-        "duration": "42:50",
-        "videoId": "C9jqLbJzLsc"
-      },
-      {
-        "title": "007: Adventures of Lolo 3",
-        "duration": "1:20:05",
-        "videoId": "ABwffHud2c0"
       }
     ]
   }
