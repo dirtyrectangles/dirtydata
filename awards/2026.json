@@ -1,0 +1,11 @@
+{
+    "year": 2026,
+    "status": "open",
+    "categories": {
+      "dirtyDozen": { "winners": [] },
+      "presentationalist": { "winner": null },
+      "communityChampion": { "winner": null },
+      "dopestFirstTimer": { "winner": null },
+      "vveirdie": { "winner": null }
+    }
+  }
