@@ -1,6 +1,6 @@
 {
     "year": 2026,
-    "status": "open",
+    "status": "nominations_open",
     "categories": {
       "dirtyDozen": { "winners": [] },
       "presentationalist": { "winner": null },
